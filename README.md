@@ -12,7 +12,7 @@ I'm a Network Engineer specializing in automation with PowerShell, and I'm curre
 
 Here are some of my projects that showcase my work in network automation:
 
-- [**Get-PingTimes**](https://github.com/cadencejames/Get-PingTimes): A Python script to collect inter-site ping times. (There's also a powershell version)
+- [**Get-PingTimes**](https://github.com/cadencejames/Get-PingTimes): A Python script to collect inter-site ping times.
 - [**NetworkModules**](https://github.com/cadencejames/NetworkModules): A general-purpose Python library for automating tasks on Cisco networking devices. Designed to be imported into other scripts, it provides a growing collection of functions for various network management tasks.
 - [**Code-Dump**](https://github.com/cadencejames/code-dump): A collection of miscellaneous scripts I’ve written for automation, utilities, and random coding experiments. These scripts serve as quick solutions to various problems and may be updated or expanded.
 
