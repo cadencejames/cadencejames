@@ -1,4 +1,4 @@
-# Hi there, I'm Cadence James 👋
+# Hi there, I'm Cadence 👋
 
 I'm a Network Engineer specializing in automation with PowerShell, and I'm currently exploring Python and Ansible to enhance my skill set.
 
