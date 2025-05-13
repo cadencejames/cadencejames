@@ -14,7 +14,7 @@ Here are some of my projects that showcase my work in network automation and oth
 
 - [**Get-PingTimes**](https://github.com/cadencejames/Get-PingTimes): A Python script to collect inter-site ping times.
 - [**NetworkModules**](https://github.com/cadencejames/NetworkModules): A general-purpose Python library for automating tasks on Cisco networking devices. Designed to be imported into other scripts, it provides a growing collection of functions for various network management tasks.
-- [**Code-Dump**](https://github.com/cadencejames/code-dump): A collection of miscellaneous scripts I’ve written for automation, utilities, and random coding experiments. These scripts serve as quick solutions to various problems and may be updated or expanded.
+- [**price-per-tb**](https://github.com/cadencejames/price-per-tb): A script to scrape hard drive (HDD) listings from Amazon, Newegg, and ServerPartDeals. It then processes that data to generate an interactive Price Per Terabyte webpage.
 
 Feel free to explore these repositories to see my work in action.
 
